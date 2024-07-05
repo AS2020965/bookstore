@@ -6,31 +6,46 @@ The Online Ebook Store is a web application developed using Java Spring Boot for
 
 Features
 
-User Authentication: Users can register, log in, and manage their profiles.
-Ebook Browsing: Users can browse through a list of available ebooks.
-Search Functionality: Users can search for ebooks by title, author, or genre.
-Ebook Details: Detailed view of each ebook with description, author info, and purchase options.
-Shopping Cart: Users can add ebooks to their cart and proceed to checkout.
+1.User Authentication: Users can register, log in, and manage their profiles.
+
+2.Ebook Browsing: Users can browse through a list of available ebooks.
+
+3.Search Functionality: Users can search for ebooks by title, author, or genre.
+
+4.Ebook Details: Detailed view of each ebook with description, author info, and purchase options.
+
+5.Shopping Cart: Users can add ebooks to their cart and proceed to checkout.
 
 Technologies Used
 
-Backend: Java Spring Boot
-Frontend: HTML, CSS, JavaScript
-Database: MySQL (or any other database you used)
-Build Tool: Maven (or Gradle)
-Version Control: Git
+1.Backend: Java Spring Boot
+
+2.Frontend: HTML, CSS, JavaScript
+
+3.Database: MySQL (or any other database you used)
+
+4.Build Tool: Maven (or Gradle)
+
+5.Version Control: Git
 
 Getting Started
 
-Prerequisites
-Java 11 or higher
-Maven or Gradle
-MySQL (or any other database you used)
+1.Prerequisites
+
+2.Java 11 or higher
+
+3.Maven or Gradle
+
+4.MySQL (or any other database you used)
 
 Installation
 
 1.Clone the repository
+
 2.Configure the database
+
 3.Build the project
+
 4.Run the application
+
 5.Open your browser and navigate to http://localhost:8080.
